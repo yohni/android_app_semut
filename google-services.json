@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "763836461506",
+    "firebase_url": "https://si-semut.firebaseio.com",
+    "project_id": "si-semut",
+    "storage_bucket": "si-semut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763836461506:android:67435a7037896b21",
+        "android_client_info": {
+          "package_name": "id.sisemut.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763836461506-urlpi85svfg4ru40nfrgutdoe24rl1qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHqb9y5YsfPTFb5PNxafVosjPczOekfRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

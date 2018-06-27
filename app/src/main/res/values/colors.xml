@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorPrimaryDark">#2d9cdb</color>
+    <color name="colorAccent">#2d9cdb</color>
+    <color name="colorArrowGray">#BDBDBD</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="backgroundPrimary">#F2F2F2</color>
+    <color name="backgroundCategory">#3FD14D</color>
+    <color name="backgroundAccess">#2d9cdb</color>
+    <color name="colorCount">#F2994A</color>
+    <color name="textColorGray">#828282</color>
+    <color name="backgroundGray">#C4C4C4</color>
+    <color name="backgroundButtonCancel">#FFFBFB</color>
+    <color name="backgroundButtonCreate">#3FD14D</color>
+    <color name="backgroundLabelBlue">#63BDF0</color>
+    <color name="backgroundLabelOrange">#F2994A</color>
+    <color name="backgroundInputAuth">#FEFEFE</color>
+    <color name="backgroundBtnAuth">#F2C94C</color>
+    <color name="tabColor">#E0E0E0</color>
+    <color name="tabSelectedColor">#FFFFFF</color>
+    <color name="btn_general_info">#EB5757</color>
+    <color name="btn_general_info_pressed">#e3eb5757</color>
+    <color name="btn_dent_status">#FFD145</color>
+    <color name="btn_dent_status_pressed">#b4ffd145</color>
+    <color name="btn_period_status">#7D57EB</color>
+    <color name="btn_period_status_pressed">#9b7d57eb</color>
+    <color name="btn_loss_of_att">#33E745</color>
+    <color name="btn_loss_of_att_pressed">#b333e745</color>
+    <color name="btn_other">#F2994A</color>
+    <color name="btn_other_pressed">#94f2994a</color>
+</resources>
